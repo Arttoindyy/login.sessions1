@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #895000;
+}
+
+.tableBorder {
+    border: solid 1px #7b4e00;
+    margin-top: 100px;
+}
+
+.message {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #7c4a00;
+}
